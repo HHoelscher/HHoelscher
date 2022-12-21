@@ -11,4 +11,5 @@
 - React;
 
 <hr>
-<a href=”https://www.linkedin.com/in/henrique-hoelscher-9392ba1a4/"><img align=”left” src=”https://github.com/HHoelscher/HHoelscher/blob/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”>Henrique Hoelscher</a>
+<a href="https://www.linkedin.com/in/henrique-hoelscher-9392ba1a4/">
+  <img src="https://github.com/HHoelscher/HHoelscher/blob/main/images/linkedin.png" alt="Linkedin">Linkedin Henrique</a>
