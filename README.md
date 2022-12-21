@@ -11,4 +11,4 @@
 - React;
 
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHoelscher&layout=compact)](https://github.com/HHoelscher)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhoelscher&layout=compact)](https://github.com/hhoelscher)
