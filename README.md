@@ -12,4 +12,7 @@
 
 <hr>
 <a href="https://www.linkedin.com/in/henrique-hoelscher-9392ba1a4/">
-  <img src="https://github.com/HHoelscher/HHoelscher/blob/main/images/linkedin.png" alt="Linkedin" width="21px"></a>
+<img src="https://github.com/HHoelscher/HHoelscher/blob/main/images/linkedin.png" alt="Linkedin" width="21px"></a>
+<a href="https://www.instagram.com/hhoelscher_/">
+<img src="https://github.com/HHoelscher/HHoelscher/blob/main/images/instagram.png" alt="Instagram">
+</a>
