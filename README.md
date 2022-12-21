@@ -11,5 +11,4 @@
 - React;
 
 <hr>
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hhoelscher)](https://github.com/hhoelscher)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhoelscher&layout=compact)](https://github.com/hhoelscher)
+<a href=”https://www.linkedin.com/in/henrique-hoelscher-9392ba1a4/"><img align=”left” src=”https://github.com/HHoelscher/HHoelscher/blob/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/>Henrique Hoelscher</a>
