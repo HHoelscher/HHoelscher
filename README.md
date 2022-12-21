@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Meu nome é Henrique Hoelscher. 👋 
+<hr>
+- Atualmente cursando FullStack Web; <br>
+- Assistente de BackOffice;
+<hr>
 
-<!--
-**HHoelscher/HHoelscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudando:
+- HTML;
+- CSS;
+- JavaScript;
+- React;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHoelscher&layout=compact)](https://github.com/HHoelscher)
