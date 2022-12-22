@@ -3,8 +3,10 @@
 ```javascript
 const Henrique= {
     Name: [Henrique Hoelscher],
-    Age:  ["I'm 21 years old"],
-    Country: ["I live in Novo Hamburgo, RS - Brazil"],
+    Age:  ["21"],
+    City: ["Novo Hamburgo"],
+    State: ["Rio Grande do Sul"],
+    Country: ["Brazil"],
    
     Technologies:{
         FrontEnd: ["HTML..."],
