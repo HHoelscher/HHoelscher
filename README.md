@@ -4,7 +4,7 @@
 const Henrique= {
     Name: [Henrique Hoelscher],
     Age:  ["I'm 21 years old"],
-    Country: ["I live in Novo Hamburgo -RS Brazil"],
+    Country: ["I live in Novo Hamburgo, RS - Brazil"],
    
     Technologies:{
         FrontEnd: ["HTML..."],
